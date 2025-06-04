@@ -32,7 +32,7 @@ const Module = ({ name, coefficient, onChange }) => {
 
   return (
     <div>
-      <h3>{name} </h3>
+      <h3 id="moduleName">{name} </h3>
       <label >TD Mark: </label>
       <input  type="number" value={tdMark} onChange={handleTDChange} />
       
