@@ -3,7 +3,7 @@ import Module from "./module";
 import  "./styles.css";
 
 const modules = [   
-  { name: "Renforcement Arabe", coefficient: 2 },
+  { name: "Renforcement  Arabe", coefficient: 2 },
   { name: "Renforcement Anglais (Bekhouche)", coefficient: 1 },  
   { name: "Renforcement francais (Belkacem)", coefficient: 1 },
   { name: "Traduction Francais-Arabe (Belkacem)", coefficient: 1 }, 
